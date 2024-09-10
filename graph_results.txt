@@ -1,0 +1,55 @@
+Vertices=   256	Edges=   255	Heap=0.00000000	Unsorted List=0.00591731
+Vertices=   256	Edges=  3494	Heap=0.00904083	Unsorted List=0.00690007
+Vertices=   256	Edges=  6733	Heap=0.00675368	Unsorted List=0.00215816
+Vertices=   256	Edges=  9972	Heap=0.00769448	Unsorted List=0.01296353
+Vertices=   256	Edges= 13211	Heap=0.01459694	Unsorted List=0.01482916
+Vertices=   256	Edges= 16450	Heap=0.01349425	Unsorted List=0.02640629
+Vertices=   256	Edges= 19688	Heap=0.01801300	Unsorted List=0.01171160
+Vertices=   256	Edges= 22926	Heap=0.02000141	Unsorted List=0.01867127
+Vertices=   256	Edges= 26164	Heap=0.01984072	Unsorted List=0.01929164
+Vertices=   256	Edges= 29402	Heap=0.01780105	Unsorted List=0.02702188
+Vertices=   256	Edges= 32640	Heap=0.02942586	Unsorted List=0.02210474
+Vertices=   512	Edges=   511	Heap=0.00000000	Unsorted List=0.01873016
+Vertices=   512	Edges= 13542	Heap=0.02129960	Unsorted List=0.02161527
+Vertices=   512	Edges= 26573	Heap=0.02410030	Unsorted List=0.02698421
+Vertices=   512	Edges= 39604	Heap=0.03124380	Unsorted List=0.04017973
+Vertices=   512	Edges= 52635	Heap=0.04850054	Unsorted List=0.04719377
+Vertices=   512	Edges= 65666	Heap=0.05140662	Unsorted List=0.05749321
+Vertices=   512	Edges= 78696	Heap=0.05997229	Unsorted List=0.07684660
+Vertices=   512	Edges= 91726	Heap=0.07141519	Unsorted List=0.09285998
+Vertices=   512	Edges=104756	Heap=0.07698655	Unsorted List=0.10003662
+Vertices=   512	Edges=117786	Heap=0.11284113	Unsorted List=0.11713958
+Vertices=   512	Edges=130816	Heap=0.11037731	Unsorted List=0.11667442
+Vertices=  1024	Edges=  1023	Heap=0.01284027	Unsorted List=0.05599833
+Vertices=  1024	Edges= 53299	Heap=0.05762053	Unsorted List=0.09098458
+Vertices=  1024	Edges=105575	Heap=0.09191561	Unsorted List=0.13834524
+Vertices=  1024	Edges=157851	Heap=0.14905000	Unsorted List=0.20028639
+Vertices=  1024	Edges=210126	Heap=0.21337247	Unsorted List=0.26537108
+Vertices=  1024	Edges=262401	Heap=0.26798677	Unsorted List=0.33139110
+Vertices=  1024	Edges=314676	Heap=0.33599973	Unsorted List=0.37092638
+Vertices=  1024	Edges=366951	Heap=0.46236229	Unsorted List=0.47556877
+Vertices=  1024	Edges=419226	Heap=0.51710606	Unsorted List=0.56461382
+Vertices=  1024	Edges=471501	Heap=0.56991053	Unsorted List=0.60084701
+Vertices=  1024	Edges=523776	Heap=0.62815285	Unsorted List=0.68886137
+Vertices=  2048	Edges=  2047	Heap=0.02011585	Unsorted List=0.21645069
+Vertices=  2048	Edges=211456	Heap=0.22594357	Unsorted List=0.43698263
+Vertices=  2048	Edges=420864	Heap=0.58498549	Unsorted List=0.70193315
+Vertices=  2048	Edges=630272	Heap=0.74917006	Unsorted List=0.93990946
+Vertices=  2048	Edges=839680	Heap=1.06798840	Unsorted List=1.19983196
+Vertices=  2048	Edges=1049088	Heap=1.38133645	Unsorted List=1.57970238
+Vertices=  2048	Edges=1258496	Heap=1.54128933	Unsorted List=1.71995401
+Vertices=  2048	Edges=1467904	Heap=1.88867259	Unsorted List=2.02714539
+Vertices=  2048	Edges=1677312	Heap=2.04961419	Unsorted List=2.21526217
+Vertices=  2048	Edges=1886720	Heap=2.31984258	Unsorted List=2.47129464
+Vertices=  2048	Edges=2096128	Heap=2.81836367	Unsorted List=2.72852230
+Vertices=  4096	Edges=  4095	Heap=0.03884435	Unsorted List=0.89964724
+Vertices=  4096	Edges=842342	Heap=1.07939148	Unsorted List=1.84855604
+Vertices=  4096	Edges=1680589	Heap=2.28786206	Unsorted List=3.15204215
+Vertices=  4096	Edges=2518836	Heap=3.19852924	Unsorted List=3.97246814
+Vertices=  4096	Edges=3357083	Heap=4.39886260	Unsorted List=5.04938507
+Vertices=  4096	Edges=4195330	Heap=5.38085079	Unsorted List=6.03921032
+Vertices=  4096	Edges=5033576	Heap=8.17561269	Unsorted List=8.53456688
+Vertices=  4096	Edges=5871822	Heap=8.00880814	Unsorted List=8.33761835
+Vertices=  4096	Edges=6710068	Heap=22.72403622	Unsorted List=21.23875761
+Vertices=  4096	Edges=7548314	Heap=14.27042317	Unsorted List=25.72153616
+Vertices=  4096	Edges=8386560	Heap=13.26482844	Unsorted List=12.08679676
