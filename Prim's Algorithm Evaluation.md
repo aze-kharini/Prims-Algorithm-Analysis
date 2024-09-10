@@ -306,7 +306,9 @@ So now we know that the set can split, now the question is what is size of the s
 Putting all of this together;
 
 > $\Large c=\frac{n*\min\{\log{(m/n)}, log_2{w}\}}{m}$
+
 > $m(1+c\log{n})=m+m*c\log{n}=m+n*\min\{\log{(m/n)}, log_2{w}\}*\log{n}$
+
 > $m+n*\log{n}*\min\{\log{(m/n)}, log_2{w}\}$
 
 So if we have the weight set to a small number, like in our test cases where $w=20$, we can view it as a constant and get $O(m+n\log{n})$ as the time complexity for the heap. This would explain why the run times come so close to each other when it comes to Dense Graphs, they are both technically $O(n^2)$. 
